@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說寶如來三昧經
+#+DATE: 2015-08-30 20:14:45.449914
+#+PROPERTY: JUAN 0
