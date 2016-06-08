@@ -6,7 +6,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 637
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6i0274_T_002-0525a> 
 #+PROPERTY: JUAN 2
 ¶
@@ -211,7 +211,7 @@
 佛言：「須菩提！若有諸羅漢辟支佛，¶
 若有沙門諸天及人，起煩荷想，於慧求名，
 <pb:KR6i0274_T_002-0526c>¶
-壞滅本末增減尊法。玫𤥿言：『但好飯食為¶
+壞滅本末增減尊法。[王*支]𤥿言：『但好飯食為¶
 是道。』遂不知空、何所是空？但欲莊嚴剎土，非¶
 尊法者，聞佛可得求佛，亦不知法，言有二法，¶
 是為壞敗我法。」
